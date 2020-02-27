@@ -2,5 +2,5 @@ homepage: "https://dsp.reklamstore.com"
 documentation: "https://support.reklamstore.com/l/en/reklamstore-dsp"
 versions:
 # Latest Version
-  - sha: e25799e6ab093aaecfba92b6251a51d8e378d403
+  - sha: 45189f5ac65cae30e3646f0bb570c7932dd15ffe
     changeNotes: Created metadata.yaml.
