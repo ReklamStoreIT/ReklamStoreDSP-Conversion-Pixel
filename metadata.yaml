@@ -1,3 +1,6 @@
 homepage: "https://dsp.reklamstore.com"
 documentation: "https://support.reklamstore.com/l/en/reklamstore-dsp"
 versions:
+# Latest Version
+  - sha: 
+    changeNotes: Created metadata.yaml.
